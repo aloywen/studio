@@ -1,3 +1,3 @@
 # studio
 
-demo : studio-kadex.netlify.app
+demo : https://studio-kadex.netlify.app/
